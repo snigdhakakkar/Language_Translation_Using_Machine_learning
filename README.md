@@ -8,7 +8,7 @@ A project on Sequence to Sequence Neural Networks : involves Encoders - Decoders
 
 **First implementation**: I have implemented a character-level sequence-to-sequence model, processing the input character-by-character and generating the output character-by-character.  <br />
 
-**Steps of implementation **__- <br />
+__**Steps of implementation **__- <br />
 1) Turn the sentences into 3 Numpy arrays, encoder_input_data, decoder_input_data, decoder_target_data: <br />
 encoder_input_data is a 3D array of shape (num_pairs, max_english_sentence_length, num_english_characters) containing a one-hot vectorization of the English sentences.  <br />
 decoder_input_data is a 3D array of shape (num_pairs, max_french_sentence_length, num_french_characters) containg a one-hot vectorization of the French sentences. <br />
