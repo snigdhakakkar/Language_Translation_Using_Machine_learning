@@ -20,3 +20,8 @@ decoder_target_data is the same as decoder_input_data but offset by one timestep
 
 **Second implementation:** Another implementation is a word-level model, which tends to be more common for machine translation.  <br />
 
+
+![Screenshot 2022-05-05 at 6 06 20 PM](https://user-images.githubusercontent.com/65984649/167033302-9c10c9e0-e5b9-4093-828f-8edf6dbf1f61.png)
+
+
+![Screenshot 2022-05-05 at 6 06 09 PM](https://user-images.githubusercontent.com/65984649/167033336-4eb51e80-e033-4e00-94bb-88836e94e6e9.png)
