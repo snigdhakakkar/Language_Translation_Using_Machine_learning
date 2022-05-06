@@ -1,4 +1,4 @@
-# Language_Translation_Using_Machine_learning <br />
+# Machine Language Translation using Sequence To Sequence Neural Networks <br />
 Implementing English to French Language translation using Machine Learning <br />
 
 A project on Sequence to Sequence Neural Networks : involves Encoders - Decoders <br />
